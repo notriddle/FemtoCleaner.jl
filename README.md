@@ -71,7 +71,7 @@ It is possible to run FemtoCleaner locally (to fix, for example, deprecations in
 Install `FemtoCleaner` (currently working on Julia v0.6.x only) using
 
 ```jl
-Pkg.clone("https://github.com/Keno/AbstractTrees.jl")
+Pkg.clone("https://github.com/Keno/AbstractTrees.jl.git")
 Pkg.clone("https://github.com/JuliaComputing/Deprecations.jl")
 Pkg.clone("https://github.com/JuliaComputing/FemtoCleaner.jl")
 ```
