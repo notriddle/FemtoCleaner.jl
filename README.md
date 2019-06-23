@@ -68,7 +68,7 @@ publicly hosted version thereof. In particular:
 
 It is possible to run FemtoCleaner locally (to fix, for example, deprecations in a private repository).
 
-Install `FemtoCleaner` (currently working on Julia v0.6.x only) using
+Install `FemtoCleaner` (currently working on Julia v0.6.x only https://julialang.org/downloads/oldreleases.html ) using
 
 ```jl
 Pkg.clone("https://github.com/Keno/AbstractTrees.jl.git")
